@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eknathbhore
-- 👀 I’m interested in Cyber Secuirty 
+- 👀 I’m interested in Cyber Secuirty Research
 - 🌱 I’m currently learning the same
 - 💞️ I’m looking to collaborate on Cyber Sec Tools/Scripts
 - 📫 How to reach me www.linkedin.com/in/eknathbhore
