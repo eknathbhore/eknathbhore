@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @eknathbhore
-- 👀 I’m interested in Cyber Security Research
-- 🌱 I’m currently exploring other stuffs as well
-- 💞️ I love to automate things
-- 📫 How to reach me www.linkedin.com/in/eknathbhore
+# 👋 Hi, I'm Eknath Bhore (@eknathbhore)
 
-<!---
-eknathbhore/eknathbhore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 **Domain of Interest**: Security Research | Pentesting | Malware Analysis  
+💡 Currently expanding my knowledge in **Life**, **Spirituality**, and **Psychology**  
+📜 Passionate about **Analyzing** both Virtual & Physical entities  
+🤖 Love to **Automate** things and dive deep into **Cybersecurity** challenges  
+
+📂 **Pinned Repositories**:  
+- PayloadsAllTheThings: A collection of payloads and web app security tools  
+- Pentest Scripts: Fun scripts to explore pentesting challenges  
+- PMAT Labs: Labs focused on practical malware analysis & triage  
+- Study_from_PDFs: A curated list of technical PDFs and papers
+
+📫 **Connect with me**:  
+- [LinkedIn](https://www.linkedin.com/in/eknathbhore)
+
+🚀 **Let’s collaborate and secure the future together!**
