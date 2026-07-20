@@ -1,6 +1,6 @@
 # 🛡️ Senior Security Analyst | Threat & Malware Researcher
 
-> 🤖 "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it." — Zhuowei Zhang
+> 🤖 > 🔍 "Any sufficiently advanced bug is indistinguishable from a feature." — Rich Kulawiec
 > 
 > 🔍 Passionate about analyzing both virtual & physical entities, debugging the unknown, and securing the future.
 
