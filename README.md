@@ -25,7 +25,7 @@
 
 <!-- Native Shields.io Profile Views Counter (100% Uptime) -->
 <p align="left">
-  <img src="https://u8views.com/api/v1/github/profiles/eknathbhore/views/badge.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/eknathbhore/count.svg" alt="Profile Views" />
 </p>
 
 ---
