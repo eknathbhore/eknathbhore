@@ -25,7 +25,7 @@
 
 <!-- Native Shields.io Profile Views Counter (100% Uptime) -->
 <p align="left">
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feknathbhore&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
+  <img src="https://u8views.com/api/v1/github/profiles/eknathbhore/views/badge.svg" alt="Profile Views" />
 </p>
 
 ---
