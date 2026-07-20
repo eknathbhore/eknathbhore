@@ -1,6 +1,6 @@
 # 🛡️ Senior Security Analyst | Threat & Malware Researcher
 
-> 🤖 > 🔍 "Any sufficiently advanced bug is indistinguishable from a feature." — Rich Kulawiec
+> 🤖  🔍 "Any sufficiently advanced bug is indistinguishable from a feature." — Rich Kulawiec
 > 
 > 🔍 Passionate about analyzing both virtual & physical entities, debugging the unknown, and securing the future.
 
