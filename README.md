@@ -11,21 +11,21 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <!-- Live dynamic stats pulling directly from your account metrics -->
-      <img src="https://github-readme-stats.vercel.app/api?username=eknathbhore&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Eknath's GitHub Statistics" width="100%" />
+      <!-- Stable Mirror for Stats Card -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eknathbhore&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Eknath's GitHub Statistics" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <!-- Live language usage breakdown based on your active code files -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknathbhore&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Languages Used" width="100%" />
+      <!-- Stable Mirror for Languages Card -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eknathbhore&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Languages Used" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Live Profile Counter to track repository traffic -->
+<!-- Native Shields.io Profile Views Counter (100% Uptime) -->
 <p align="left">
-  <img src="https://komarev.com/normal-eceb2d/github-profile-autocounter/?username=eknathbhore&label=Profile+Views&color=007ec6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Feknathbhore%2Fvisits&color=007ec6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
