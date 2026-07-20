@@ -24,9 +24,16 @@
 <br/>
 
 <!-- Native Shields.io Profile Views Counter (100% Uptime) -->
-<p align="left">
-  <img src="https://profile-counter.glitch.me/eknathbhore/count.svg" alt="Profile Views" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eknathbhore&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Eknath's GitHub Statistics" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eknathbhore&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Languages Used" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
