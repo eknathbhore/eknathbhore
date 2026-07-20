@@ -25,7 +25,7 @@
 
 <!-- Native Shields.io Profile Views Counter (100% Uptime) -->
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Feknathbhore%2Fvisits&color=007ec6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/normal-eceb2d/github-profile-autocounter/?username=eknathbhore&label=Profile+Views&color=007ec6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
